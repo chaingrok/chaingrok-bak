@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://blog.chaingrok.com'
+url: 'https://chaingrok.github.io'
 baseurl: ''
 title: 'ChainGrok website'
 description: 'This is my new website'
